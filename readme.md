@@ -2,7 +2,11 @@
 
 A minimalistic SignalR app with a light sprinkle of Dependency Injection.
 
-Start this app using the `ASP.NET Core Empty` template using this command: `dotnet new web -o LikePix`
+This app was statrted using the `ASP.NET Core Empty` template using this command: 
+
+```
+dotnet new web -o LikePix
+```
 
 ## Server side setup
 
