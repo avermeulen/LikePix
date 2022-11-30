@@ -1,0 +1,9 @@
+body {
+    background-color: lightgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.count {
+    font-size: 300%;
+    font-weight: bold;
+}
